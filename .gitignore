@@ -120,6 +120,9 @@ venv.bak/
 # mkdocs documentation
 /site
 
+#dataset
+/dataset
+
 # mypy
 .mypy_cache/
 .dmypy.json
@@ -127,3 +130,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#drivers
+/drivers

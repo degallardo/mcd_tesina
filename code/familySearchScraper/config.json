@@ -1,0 +1,6 @@
+{
+    "chrome_driver": "C:/Git/python/mcd_tesina/code/drivers/chrome/chromedriver.exe",
+    "edge_driver": "C:/Git/python/mcd_tesina/code/drivers/edge/msedgedriver.exe",
+    "firefox_driver": "C:/Git/python/mcd_tesina/code/drivers/firefox/geckodriver.exe",
+    "safari_driver": ""
+}
