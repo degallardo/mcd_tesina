@@ -1,0 +1,78 @@
+{
+    "main_folder": "C:\\Users\\sesa443933\\OneDrive - Schneider Electric\\MCD\\Tetra 5\\Proyecto de Consultoria\\dataset",
+    "urls": 
+    [
+        {
+            "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2945258&lifeEvent=102860&rmsId=M989-TG6&imageIndex=0&singleView=true",
+            "img_qty": 503,
+            "folder": "Apodaca. Marriage Records 1891-1900",
+            "active": false
+        },
+        {
+            "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2945258&lifeEvent=102860&rmsId=M989-TGD&imageIndex=0&singleView=true",
+            "img_qty": 73,
+            "folder": "Apodaca. Marriage Records 1901",
+            "active": false
+        },
+        {
+            "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2945258&lifeEvent=102860&rmsId=M989-TGF&imageIndex=0&singleView=true",
+            "img_qty": 44,
+            "folder": "Apodaca. Marriage Records 1903",
+            "active": false
+        },
+        {
+            "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2945258&lifeEvent=102860&rmsId=M989-TG6&imageIndex=0&singleView=true",
+            "img_qty": 1,
+            "folder": "Apodaca. Marriage Records 1891-1900",
+            "active": false
+        },
+        {
+            "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2945258&lifeEvent=102860&rmsId=M989-TGD&imageIndex=0&singleView=true",
+            "img_qty": 2,
+            "folder": "Apodaca. Marriage Records 1901",
+            "active": false
+        },
+        {
+            "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2945258&lifeEvent=102860&rmsId=M989-TGF&imageIndex=0&singleView=true",
+            "img_qty": 3,
+            "folder": "Apodaca. Marriage Records 1903",
+            "active": false
+        },
+        {
+            "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2897&rmsId=DGS-004510336&imageIndex=0&singleView=true",
+            "img_qty": 405,
+            "folder": "Santiago Apostol. Baptism Records 1849-1855",
+            "active": false
+        },
+        {
+            "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2897&rmsId=M93M-J4T&imageIndex=0&singleView=true",
+            "img_qty": 2,
+            "folder": "San Geronimo. Baptism Records 1874-1878",
+            "active": false
+        },
+        {
+            "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2897&rmsId=M94D-5PF&imageIndex=0&singleView=true",
+            "img_qty": 159,
+            "folder": "Monterrey. Birth Records 1925 1",
+            "active": true
+        },
+        {
+            "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2897&rmsId=M94D-5PN&imageIndex=0&singleView=true",
+            "img_qty": 109,
+            "folder": "Monterrey. Birth Records 1925 2",
+            "active": true
+        },
+        {
+            "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2897&rmsId=M94D-5PX&imageIndex=0&singleView=true",
+            "img_qty": 110,
+            "folder": "Monterrey. Birth Records 1925 3",
+            "active": true
+        },
+        {
+            "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2897&rmsId=M94D-5TB&imageIndex=0&singleView=true",
+            "img_qty": 173,
+            "folder": "Santa Catarina. Birth Records 1881-1890",
+            "active": true
+        }
+    ]    
+}
