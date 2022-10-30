@@ -24,10 +24,13 @@ browser = webdriver.Edge(v_settings['edge_driver'], options=options)
 browser.get('https://www.familysearch.org/es/')
 
 # time.sleep(3)
-wait = WebDriverWait(browser, 10)
-truste_consent_button = wait.until(EC.element_to_be_clickable((By.ID, 'truste-consent-button')))
-truste_consent_button.click()
-# browser.find_element(By.ID, 'truste-consent-button').click()
+try:
+    wait = WebDriverWait(browser, 10)
+    truste_consent_button = wait.until(EC.element_to_be_clickable((By.ID, 'truste-consent-button')))
+    truste_consent_button.click()
+    # browser.find_element(By.ID, 'truste-consent-button').click()
+except Exception as e:
+    pass
 
 signInLink = wait.until(EC.element_to_be_clickable((By.ID, 'signInLink')))
 signInLink.click()
@@ -91,7 +94,7 @@ with open("datasets.json", 'r') as json_file:
                 os.makedirs(dest_folder)
                 print("Folder " + dest_folder + " has been created.")
 
-            download_folder = r"C:\Users\sesa443933\Downloads"
+            download_folder = r"C:\Users\dgallardo\Downloads"
             print("Moving files from " + download_folder + " to " + dest_folder + "...")
             for file in os.listdir(download_folder):
                 if datetime.datetime.fromtimestamp(os.path.getmtime(os.path.join(download_folder, file))).strftime("%Y-%m-%d") == datetime.datetime.now().strftime("%Y-%m-%d"):

@@ -1,5 +1,5 @@
 {
-    "main_folder": "C:\\Users\\sesa443933\\OneDrive - Schneider Electric\\MCD\\Tetra 5\\Proyecto de Consultoria\\dataset",
+    "main_folder": "C:\\Users\\dgallardo\\OneDrive - Universidad Autonoma de Nuevo León\\MCD\\Tetra 5\\Proyecto de Consultoria\\dataset",
     "urls": 
     [
         {
@@ -54,23 +54,35 @@
             "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2897&rmsId=M94D-5PF&imageIndex=0&singleView=true",
             "img_qty": 159,
             "folder": "Monterrey. Birth Records 1925 1",
-            "active": true
+            "active": false
         },
         {
             "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2897&rmsId=M94D-5PN&imageIndex=0&singleView=true",
             "img_qty": 109,
             "folder": "Monterrey. Birth Records 1925 2",
-            "active": true
+            "active": false
         },
         {
             "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2897&rmsId=M94D-5PX&imageIndex=0&singleView=true",
             "img_qty": 110,
             "folder": "Monterrey. Birth Records 1925 3",
-            "active": true
+            "active": false
         },
         {
             "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2897&rmsId=M94D-5TB&imageIndex=0&singleView=true",
             "img_qty": 173,
+            "folder": "Santa Catarina. Birth Records 1881-1890",
+            "active": false
+        },
+        {
+            "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2897&rmsId=M983-145&imageIndex=0&singleView=true",
+            "img_qty": 85,
+            "folder": "Sabinas Hidalgo. Birth Records 1894",
+            "active": false
+        },
+        {
+            "url": "https://www.familysearch.org/records/images/image-details?page=1&place=2897&rmsId=M94D-5TT&imageIndex=0&singleView=true",
+            "img_qty": 333,
             "folder": "Santa Catarina. Birth Records 1881-1890",
             "active": true
         }
